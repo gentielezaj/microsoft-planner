@@ -1,0 +1,24 @@
+{
+  "id": "microsoft-planner",
+  "name": "microsoft-planner",
+  "version": "1.0.0",
+  "description": "microsoft-planner",
+  "main": "index.js",
+  "author": "Genti Elezaj",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://tasks.office.com/",
+    "serviceName": "Microsoft planner",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
